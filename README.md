@@ -17,3 +17,15 @@ The system will utilise the following approach:
 1. Base level entities (i.e. stuctural beams, standard pipe sizes, etc.) applicable to Australian Standards. 
 1. Standard level modifications. (i.e. mitre joints, gussets, end plates, etc.).
 1. Standard shaft sizes and fitments.
+
+# Resources.
+- Geometries :: [beamdimensions.com](https://beamdimensions.com/database/)
+- Materials  :: [matweb.com](https://www.matweb.com/index.aspx)
+- CAD Blocks :: [cad-blocks.com](https://www.cad-blocks.co.uk/downloads/)
+
+## General Resources.
+- OpenSCAD Cheat Sheet ([openscad.org](https://openscad.org/cheatsheet/))
+- Steel Geometries ([cad-steel.info](https://www.cad-steel.info/))
+- European Applied ([europeanapplied.com](https://eurocodeapplied.com/))
+- Profiles and Steel Grades ([montanstahl.com](https://www.montanstahl.com/))
+- Engineering Calculators ([mechanicalc.com](https://mechanicalc.com/calculators/))
