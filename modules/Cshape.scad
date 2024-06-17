@@ -13,9 +13,7 @@
  // tw = 5;                       // Thicknes of web. 
  // r = 8;                        // Radius between web and flange.
 
-// TODO Update this for Tapered Flanges.
-// TODO Include logic for variable shape selection.
-module IShape(d, l, bb, bt, tb, tt, tw, r) {
+module CShape(d, l, bb, bt, tb, tt, tw, r) {
   di = (d - (tb/2) - (tt/2));   // Web length - Calculated.
   linear_extrude (height = l) {
       union () {        // Structure.

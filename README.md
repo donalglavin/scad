@@ -18,6 +18,16 @@ The system will utilise the following approach:
 1. Standard level modifications. (i.e. mitre joints, gussets, end plates, etc.).
 1. Standard shaft sizes and fitments.
 
+# Geometries. 
+- I Shape (Welded Beams, Welded Columns).
+  - I Shape with Radius (Universal Beams, Universal Columns, Universal Bearing Piles).
+  - IShape with Radius & Taper (Tapered Flange Beams).
+- C Shape
+  - C Shape with Radius (Parrallel Flange Channels)
+- L Shape
+  - L Shape with Radius (Equal Angles, Unequal Angles).
+- Rail Shape.
+
 # Resources.
 - Geometries :: [beamdimensions.com](https://beamdimensions.com/database/)
 - Materials  :: [matweb.com](https://www.matweb.com/index.aspx)
